@@ -1,0 +1,62 @@
+2022-03-21 01:43:59,303  INFO [main] LoginPageTest:60 - login successful with username: bhavana@sunrayit.com
+2022-03-21 01:44:10,083  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 01:44:16,016  INFO [main] LoginPageTest:60 - login successful with username: 8.370841564E9
+2022-03-21 01:44:26,817  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 01:44:32,704  INFO [main] LoginPageTest:60 - login successful with username: 7.038762577E9
+2022-03-21 01:44:43,495  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 01:44:49,550  INFO [main] LoginPageTest:60 - login successful with username: bshende863@gmail.com
+2022-03-21 01:45:00,426  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 01:45:03,106  INFO [main] LoginPageTest:41 - Validate the Title page
+2022-03-21 01:45:13,920  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 01:45:27,637  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:03:35,753  INFO [main] LoginPageTest:60 - login successful with username: bhavana@sunrayit.com
+2022-03-21 02:03:46,618  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:03:52,612  INFO [main] LoginPageTest:60 - login successful with username: 8.370841564E9
+2022-03-21 02:04:03,401  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:04:09,361  INFO [main] LoginPageTest:60 - login successful with username: 7.038762577E9
+2022-03-21 02:04:20,184  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:04:26,243  INFO [main] LoginPageTest:60 - login successful with username: bshende863@gmail.com
+2022-03-21 02:04:37,090  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:04:39,949  INFO [main] LoginPageTest:41 - Validate the Title page
+2022-03-21 02:04:50,752  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:05:04,553  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:05:27,154 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-21 02:05:27,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-21 02:05:27,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-21 02:05:27,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-21 02:05:27,160 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bhava/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-21 02:05:27,472 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-03-21 02:05:27,472 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-03-21 02:05:27,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-03-21 02:05:27,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-03-21 02:05:27,473 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/bhava/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-03-21 02:20:23,688  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:20:47,345  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:21:10,837  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:21:34,419  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:21:37,057  INFO [main] LoginPageTest:41 - Validate the Title page
+2022-03-21 02:21:47,898  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:22:11,553  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:26:14,511  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:26:38,030  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:27:01,506  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:27:24,970  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:27:48,382  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:34:34,899  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:34:58,630  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:35:22,013  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:35:45,669  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:35:48,408  INFO [main] LoginPageTest:41 - Validate the Title page
+2022-03-21 02:35:59,207  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:36:22,827  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:39:26,123  INFO [main] LoginPageTest:60 - login successful with username: bhavana@sunrayit.com
+2022-03-21 02:39:27,888  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:39:31,905  INFO [main] LoginPageTest:60 - login successful with username: 8.370841564E9
+2022-03-21 02:39:33,634  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:39:37,551  INFO [main] LoginPageTest:60 - login successful with username: 7.038762577E9
+2022-03-21 02:39:39,296  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:39:43,128  INFO [main] LoginPageTest:60 - login successful with username: bshende863@gmail.com
+2022-03-21 02:39:44,877  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:39:47,468  INFO [main] LoginPageTest:41 - Validate the Title page
+2022-03-21 02:39:49,225  INFO [main] LoginPageTest:72 - browser is closed
+2022-03-21 02:39:53,778  INFO [main] LoginPageTest:72 - browser is closed
